@@ -35,10 +35,9 @@ edycji lub usuwania obiektów. Przy starcie aplikacji dane są wczytywane z plik
 - System.Text.Json
 
 6. Uruchomienie projektu
-
-  6.1. Upewnić się, że zainstalowane jest .NET SDK
-  6.2. Otworzyć katalog projektu w terminalu
-  6.3. Wykonać polecenie: "dotnet run"
+- Upewnić się, że zainstalowane jest .NET SDK
+- Otworzyć katalog projektu w terminalu
+- Wykonać polecenie: "dotnet run"
 
   
 
