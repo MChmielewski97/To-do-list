@@ -1,3 +1,5 @@
+Zaliczenie przedmiotu "Wprowadzenie do programowania na platformie. NET Framework"
+
 WpfCrudApp – Lista zadań (WPF, .NET)
 
 1. Opis projektu
@@ -39,6 +41,8 @@ edycji lub usuwania obiektów. Przy starcie aplikacji dane są wczytywane z plik
 - Otworzyć katalog projektu w terminalu
 - Wykonać polecenie: "dotnet run"
 
+Autor
+Michał Chmielewski
   
 
   
